@@ -64,23 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-highlyt-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+Highlyt is a PDF highlighter that uses semantic colors to create a knowledge graph from user highlights. Built by Mayank Bohra and Rajika Patel, it helps serious readers and researchers turn notes into AI‑readable context, supporting integration via APIs for developers.
 
-**Areas:** Company
+**Areas:** Company · PDF · Highlighting · KnowledgeGraph · AI · Productivity
 
 ## Highlyt on APIs.io
 
 Everything profiled for Highlyt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/highlyt-app/](https://apis.io/providers/highlyt-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Highlyt API](https://apis.io/apis/highlyt-app/highlyt-api/) — API documentation not publicly available; site is a JavaScript shell with no machine‑readable contracts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Highlyt Domain Security](https://apis.io/security/highlyt-app/highlyt-app-domain-security/)
+- [Highlyt Vulnerability Disclosure](https://apis.io/security/highlyt-app/highlyt-app-vulnerability-disclosure/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://highlyt.app/)
+- [Support](https://highlyt.app/help)
+- [Blog](https://highlyt.app/blog)
+- [Terms of service](https://highlyt.app/terms)
+- [Privacy policy](https://highlyt.app/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/highlyt-app/](https://apis.io/providers/highlyt-app/).
+**Kin Score 17.7** — emerging · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 34.2 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/highlyt-app/](https://apis.io/providers/highlyt-app/).
 
 ## How this profile is made
 
